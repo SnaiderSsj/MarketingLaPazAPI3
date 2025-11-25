@@ -1,6 +1,6 @@
 @mkt_la_paz_HostAddress = http://localhost:5089
 
-GET {{mkt_la_paz_HostAddress}}/weatherforecast/
+GET {{MarketingLaPaz_HostAddress}}/weatherforecast/
 Accept: application/json
 
 ###
